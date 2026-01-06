@@ -126,7 +126,7 @@ export default function ContactSection() {
             height="450"
             style={{ border: 0 }}
             loading="lazy"
-            allowFullScreen=""
+          allowFullScreen={true}
             referrerPolicy="no-referrer-when-downgrade"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3118.3516789639647!2d-120.95449!3d37.59234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809b1f7e7e7e7e7d%3A0x0!2s2700%20Rose%20Ave%2C%20Ceres%2C%20CA%2095307!5e0!3m2!1sen!2sus!4v1234567890"
           ></iframe>
